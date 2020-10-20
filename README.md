@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Prince's Github stats](https://github-readme-stats.vercel.app/api?username=Okekeprince1&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Prince's Github stats](https://github-readme-stats.vercel.app/api?username=Okekeprince1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okekeprince1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Okekeprince1/Okekeprince1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
