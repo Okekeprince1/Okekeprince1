@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 [![Prince's Github stats](https://github-readme-stats.vercel.app/api?username=Okekeprince1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okekeprince1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
